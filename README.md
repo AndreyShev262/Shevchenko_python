@@ -19,8 +19,8 @@
 Python отдельно ставить не нужно — его поставит uv.
 
 ```bash
-git clone git@github.com:AndreyShev262/Shevchenko_python.git
-cd Shevchenko_python
+git clone git@github.com:AndreyShev262/prime-monitor.git
+cd prime-monitor
 uv sync
 ```
 
